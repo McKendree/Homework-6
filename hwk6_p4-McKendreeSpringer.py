@@ -252,5 +252,5 @@ if __name__ == "__main__":
     plt.xlabel('Height above North pole (km)')
     plt.ylabel('Acceleration of gravity (m/s^2)')
     plt.legend(['Flat Earth','Spherical Earth'])
-    plt.savefig('Different_Earth_Gravitities.png')
+    plt.savefig('Different_Earth_Gravities.png')
     plt.show()
